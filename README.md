@@ -9,18 +9,18 @@ you can set it not only in xml layout file but also in java class file !
 
 2.How to use :
 
-        <me.zhouzhuo.colorfulratiobar.ColorfulRatioBar
-                android:layout_width="match_parent"
-                android:layout_height="8dp"
-                android:layout_marginTop="30dp"
-                Zz:colorOne="@color/colorPrimary"
-                Zz:colorTwo="@color/colorAccent"
-                Zz:colorThree="@android:color/holo_green_light"
-                Zz:count="Three"
-                Zz:ratioOne="1"
-                Zz:ratioTwo="2"
-                Zz:ratioThree="3"
-                Zz:degree="8dp"
+    <me.zhouzhuo.colorfulratiobar.ColorfulRatioBar
+        android:layout_width="match_parent"
+        android:layout_height="8dp"
+        android:layout_marginTop="30dp"
+        Zz:colorOne="@color/colorPrimary"
+        Zz:colorTwo="@color/colorAccent"
+        Zz:colorThree="@android:color/holo_green_light"
+        Zz:count="Three"
+        Zz:ratioOne="1"
+        Zz:ratioTwo="2"
+        Zz:ratioThree="3"
+        Zz:degree="8dp"
         />
 
 author: zhouzhuo
