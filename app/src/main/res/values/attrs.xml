@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 彩色比例条 -->
+    <declare-styleable name="ColorfulRatioBar">
+        <!-- 总数 -->
+        <attr name="count" format="enum">
+            <enum name="Three" value="3" />
+            <enum name="Four" value="4"/>
+            <enum name="Five" value="5"/>
+        </attr>
+        <!-- 颜色 -->
+        <attr name="colorOne" format="color"/>
+        <attr name="colorTwo" format="color"/>
+        <attr name="colorThree" format="color"/>
+        <attr name="colorFour" format="color"/>
+        <attr name="colorFive" format="color"/>
+        <!-- 百分比 -->
+        <attr name="ratioOne" format="integer"/>
+        <attr name="ratioTwo" format="integer"/>
+        <attr name="ratioThree" format="integer"/>
+        <attr name="ratioFour" format="integer"/>
+        <attr name="ratioFive" format="integer"/>
+        <!-- 倾斜度 -->
+        <attr name="degree" format="dimension"/>
+    </declare-styleable>
+
+</resources>
