@@ -8,7 +8,7 @@ you can set it not only in xml layout file but also in java class file !
 ![SAMPLE](http://img.blog.csdn.net/20151111205058883)
 
 2.How to use :
-
+```java
     <me.zhouzhuo.colorfulratiobar.ColorfulRatioBar
         android:layout_width="match_parent"
         android:layout_height="8dp"
@@ -22,6 +22,8 @@ you can set it not only in xml layout file but also in java class file !
         Zz:ratioThree="3"
         Zz:degree="8dp"
         />
+```
 
-author: zhouzhuo
-email: admin@zhouzhuo.me
+**email**: admin@zhouzhuo.me
+
+
